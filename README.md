@@ -67,12 +67,13 @@ Contributions and improvements are welcome! Feel free to fork the repository on 
 ## Screenshots
 
 ### Application Main Interface  
-![App Main Interface](Images/app_screenshot1.png) 
+![App Main Interface](Images/app_screenshot1.png)
+### Add product information
 ![Add product information](Images/app_screenshot2.png)
 *The main window where you load data, run forecasts, and view logs.*
 
 ### PDF Report Preview  
-![PDF Report View](Images/app_report_pdf.png)  
+![PDF Report View](Images/app_report_PDF.png)  
 *Sample of the generated detailed PDF report.*
 
 ### Excel Output Sample  
