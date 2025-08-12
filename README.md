@@ -64,6 +64,20 @@ Or use the precompiled executable `PriceForecastApp.exe` (Windows only).
 
 Contributions and improvements are welcome! Feel free to fork the repository on GitHub, submit issues or pull requests. Your feedback helps enhance the project.
 
+## Download Executable
+
+You can download the Windows executable file (`PriceForecastApp.exe`) here:
+
+[Download PriceForecastApp.exe](https://drive.google.com/file/d/1ZxJQipgcM0ip01E3A6D-Nwv67gGJBPXl/view?usp=drive_link)
+
+**Note:** This application runs on Windows OS only.
+
+### How to Use
+
+1. Download the executable from the link above.
+2. Run `PriceForecastApp.exe` on your Windows machine.
+3. Follow the on-screen instructions to load your data and generate forecasts.
+
 ## Contact
 
 **Parsa Shahi**
