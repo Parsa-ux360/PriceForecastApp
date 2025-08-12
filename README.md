@@ -64,6 +64,24 @@ Or use the precompiled executable `PriceForecastApp.exe` (Windows only).
 
 Contributions and improvements are welcome! Feel free to fork the repository on GitHub, submit issues or pull requests. Your feedback helps enhance the project.
 
+## Screenshots
+
+### Application Main Interface  
+![App Main Interface](images/app_screenshot1.png)  
+*The main window where you load data, run forecasts, and view logs.*
+
+### PDF Report Preview  
+![PDF Report View](images/app_report_pdf.png)  
+*Sample of the generated detailed PDF report.*
+
+### Excel Output Sample  
+![Excel Output View](images/app_excel_output.png)  
+*Excel file showing predicted prices and inflation calculations.*
+
+### Application Logo  
+![App Logo](images/app_logo.png)  
+*Brand identity of PriceForecastApp.*
+
 ## Download Executable
 
 You can download the Windows executable file (`PriceForecastApp.exe`) here:
