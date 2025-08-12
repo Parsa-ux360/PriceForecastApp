@@ -67,19 +67,20 @@ Contributions and improvements are welcome! Feel free to fork the repository on 
 ## Screenshots
 
 ### Application Main Interface  
-![App Main Interface](images/app_screenshot1.png)  
+![App Main Interface](Images/app_screenshot1.png) 
+![Add product information](Images/app_screenshot2.png)
 *The main window where you load data, run forecasts, and view logs.*
 
 ### PDF Report Preview  
-![PDF Report View](images/app_report_pdf.png)  
+![PDF Report View](Images/app_report_pdf.png)  
 *Sample of the generated detailed PDF report.*
 
 ### Excel Output Sample  
-![Excel Output View](images/app_excel_output.png)  
+![Excel Output View](Images/app_excel_output.png)  
 *Excel file showing predicted prices and inflation calculations.*
 
 ### Application Logo  
-![App Logo](images/app_logo.png)  
+![App Logo](Images/icon.png)  
 *Brand identity of PriceForecastApp.*
 
 ## Download Executable
